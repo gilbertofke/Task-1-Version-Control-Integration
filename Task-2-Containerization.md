@@ -32,6 +32,9 @@ The objective of this task was to containerize the web application developed in 
 
 4. **Accessing the Web Application**:
    - Verified the accessibility of the web application inside the container by opening the browser and navigating to `localhost:3000`.
+   **Below is a screenshot showing the running Docker containers:**
+
+![Docker Containers Running](./screenshots/Run_docker_container.PNG)
 
 ## Challenges Faced:
 - **Docker Daemon Issues**: Encountered issues with Docker not running properly, which were resolved by restarting Docker Desktop.
